@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+# import scripts // to import scripts.py
 
 # Two way table.
 aa = np.array(['red','green', 'green', 'green', 'red', 'red'])
